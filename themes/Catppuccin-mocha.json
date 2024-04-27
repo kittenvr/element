@@ -2,8 +2,8 @@
   "name": "Catppuccin Mocha",
   "is_dark": true,
   "colors": {
-    "accent-color": "#b4befe",
-    "primary-color": "#b4befe",
+    "accent-color": "#FFAF00",
+    "primary-color": "#FFAF00",
     "warning-color": "#f38ba8",
     "alert": "#e5c890",
     "sidebar-color": "#11111b",
